@@ -1,6 +1,8 @@
 ## 스타일가이드 글꼴 정보
 ### 대제목 60
 font-size: 3.75rem; font-weight: 600; line-height: 1.0; letter-spacing: -0.02em;
+### 서브 중제목 40
+font-size: 2.50rem; font-weight: 600; line-height: 1.0; letter-spacing: 0em;
 ### 중제목 30
 font-size: 1.88rem; font-weight: 700; line-height: 1.0; letter-spacing: 0em;
 ### 내용 강조 30
